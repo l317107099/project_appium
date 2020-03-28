@@ -36,9 +36,9 @@ class Database():
                 print("insert success")
                 break
             except Exception as e:
+                print("fail")
                 print(e)
                 # 如果发生错误则回滚
-                print("fail")
                 time.sleep(5)
                 self.db.rollback()
         self.db.close()
@@ -65,7 +65,7 @@ class Database():
 
     #查询phone为空的
     def get_phone(self):
-        sql = "SELECT  href FROM  {table} WHERE  phone is NULL".format(table=self.table)
+        sql = "SELECT  href FROM  {table} WHERE  id>22410".format(table=self.table)
         try:
             self.cursor.execute(sql)
         except Exception as e:
@@ -75,10 +75,17 @@ class Database():
 
 if __name__ == '__main__':
     db = Database()
-    href = db.get_phone()
-    for url in href:
-        print(url[0])
-    # print(href)
+    # href = db.get_phone()
+    # for url in href:
+    #     print(url[0])
+    # # print(href)
+    meituan_list = {}
+    meituan_list["addr"] = "adfa"
+    # 城市
+    meituan_list["area"] = "adsfsaf"
+    # hotel id
+    meituan_list["poiid"] = "123"
+    db.insert_db(meituan_list)
 
 
 

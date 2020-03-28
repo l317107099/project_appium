@@ -24,7 +24,8 @@ class Meituan_detail():
             data = {}
             print(url)
             try:
-                response = requests.get(url=url[0],headers= self.headers).text
+                # response = requests.get(url=url[0],headers= self.headers,verify=False).text
+                response = requests.get(url=url[0], headers=self.headers).text
             except Exception as e:
                 print(e)
             # response = requests.get(url=url, headers=self.headers).text

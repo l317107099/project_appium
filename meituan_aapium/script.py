@@ -9,10 +9,14 @@ import re
 db = Database()
 def response(flow):
     url = flow.request.url
+    # print("start"*20)
     # print(url)
+    # print("end"*20)
 
-    if "http://apihotel.meituan.com/coresearch/HotelSearch?q=&cateId=20" in url:
-        # print("酒店列表数据{}".format(flow.response.text))
+    if "http://apihotel.meituan.com/coresearch/HotelSearch?q=&" in url:
+    # if "http://apihotel.meituan.com/coresearch/HotelSearch?q=&cateId=20" in url:
+    #     print("酒店列表数据{}".format(flow.response.text))
+        # print(flow.response.text)
         for user in json.loads(flow.response.text)["data"]["searchresult"]:
             meituan_list = {}
             #地址

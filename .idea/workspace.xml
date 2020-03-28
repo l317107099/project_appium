@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd51221d-430a-4e95-9d14-a36926e0ab71" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Proxy_pool/Proxy_pool/api.py" afterPath="$PROJECT_DIR$/Proxy_pool/Proxy_pool/api.py" />
-      <change beforePath="$PROJECT_DIR$/Proxy_pool/Proxy_pool/crawler.py" afterPath="$PROJECT_DIR$/Proxy_pool/Proxy_pool/crawler.py" />
-      <change beforePath="$PROJECT_DIR$/Proxy_pool/Proxy_pool/db.py" afterPath="$PROJECT_DIR$/Proxy_pool/Proxy_pool/db.py" />
-      <change beforePath="$PROJECT_DIR$/Proxy_pool/Proxy_pool/scheduler.py" afterPath="$PROJECT_DIR$/Proxy_pool/Proxy_pool/scheduler.py" />
-      <change beforePath="$PROJECT_DIR$/Proxy_pool/Proxy_pool/setting.py" afterPath="$PROJECT_DIR$/Proxy_pool/Proxy_pool/setting.py" />
-      <change beforePath="$PROJECT_DIR$/Proxy_pool/Proxy_pool/tester.py" afterPath="$PROJECT_DIR$/Proxy_pool/Proxy_pool/tester.py" />
-      <change beforePath="$PROJECT_DIR$/Proxy_pool/README.md" afterPath="$PROJECT_DIR$/Proxy_pool/README.md" />
-    </list>
+    <list default="true" id="cd51221d-430a-4e95-9d14-a36926e0ab71" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +24,7 @@
     <SUITE FILE_PATH="coverage/Pycharmproject$client.coverage" NAME="client Coverage Results" MODIFIED="1574417318378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/http" />
     <SUITE FILE_PATH="coverage/Pycharmproject$find_ip.coverage" NAME="find_ip Coverage Results" MODIFIED="1584607117051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pycharmproject$scheduler.coverage" NAME="scheduler Coverage Results" MODIFIED="1584772489335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Proxy_pool/Proxy_pool" />
-    <SUITE FILE_PATH="coverage/Pycharmproject$appium_app.coverage" NAME="appium_app Coverage Results" MODIFIED="1585019875820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meituan_aapium" />
+    <SUITE FILE_PATH="coverage/Pycharmproject$appium_app.coverage" NAME="appium_app Coverage Results" MODIFIED="1585268112014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meituan_aapium" />
     <SUITE FILE_PATH="coverage/Pycharmproject$run.coverage" NAME="run Coverage Results" MODIFIED="1584773257675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Proxy_pool" />
     <SUITE FILE_PATH="coverage/Pycharmproject$meituan.coverage" NAME="meituan Coverage Results" MODIFIED="1584502976535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pycharmproject$open.coverage" NAME="open Coverage Results" MODIFIED="1576498079379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -40,11 +32,12 @@
     <SUITE FILE_PATH="coverage/Pycharmproject$web58.coverage" NAME="web58 Coverage Results" MODIFIED="1584687516020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meituan" />
     <SUITE FILE_PATH="coverage/Pycharmproject$tester.coverage" NAME="tester Coverage Results" MODIFIED="1584602836195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Proxy_pool/Proxy_pool" />
     <SUITE FILE_PATH="coverage/Pycharmproject$crawler.coverage" NAME="crawler Coverage Results" MODIFIED="1584756123698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Proxy_pool/Proxy_pool" />
-    <SUITE FILE_PATH="coverage/Pycharmproject$db.coverage" NAME="db Coverage Results" MODIFIED="1585052958113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meituan_aapium" />
+    <SUITE FILE_PATH="coverage/Pycharmproject$db.coverage" NAME="db Coverage Results" MODIFIED="1585190225375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meituan_aapium" />
     <SUITE FILE_PATH="coverage/Pycharmproject$02.coverage" NAME="多线程练习02 Coverage Results" MODIFIED="1584368451342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/Tencent Files/1582788117/FileRecv" />
-    <SUITE FILE_PATH="coverage/Pycharmproject$meituan_detail.coverage" NAME="meituan_detail Coverage Results" MODIFIED="1585061763442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meituan_aapium" />
+    <SUITE FILE_PATH="coverage/Pycharmproject$meituan_detail.coverage" NAME="meituan_detail Coverage Results" MODIFIED="1585215610563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meituan_aapium" />
     <SUITE FILE_PATH="coverage/Pycharmproject$kuaishou222.coverage" NAME="kuaishou222 Coverage Results" MODIFIED="1582792637425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Pycharmproject$mt.coverage" NAME="mt Coverage Results" MODIFIED="1582894773781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ygqygq2-fastdfs-nginx-master" />
+    <SUITE FILE_PATH="coverage/Pycharmproject$script.coverage" NAME="script Coverage Results" MODIFIED="1585190356234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meituan_aapium" />
     <SUITE FILE_PATH="coverage/Pycharmproject$maoyanb.coverage" NAME="maoyanb Coverage Results" MODIFIED="1582684675119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ygqygq2-fastdfs-nginx-master" />
     <SUITE FILE_PATH="coverage/Pycharmproject$daili.coverage" NAME="daili Coverage Results" MODIFIED="1584586347642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daili" />
     <SUITE FILE_PATH="coverage/Pycharmproject$text_ip.coverage" NAME="text_ip Coverage Results" MODIFIED="1584590513733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daili" />
@@ -56,11 +49,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="script.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="appium_app.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/meituan_aapium/appium_app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1527">
+              <caret line="65" column="48" lean-forward="true" selection-start-line="65" selection-start-column="48" selection-end-line="65" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+                <element signature="e#2005#11400#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/meituan_aapium/script.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
-              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+            <state relative-caret-position="105">
+              <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -68,46 +74,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="appium_index.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meituan_aapium/appium_index.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13464">
-              <caret line="382" column="42" lean-forward="false" selection-start-line="382" selection-start-column="42" selection-end-line="382" selection-end-column="42" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="appium_app.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meituan_aapium/appium_app.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8712">
-              <caret line="250" column="16" lean-forward="false" selection-start-line="250" selection-start-column="16" selection-end-line="250" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="db.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="db.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meituan_aapium/db.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            <state relative-caret-position="2448">
+              <caret line="69" column="36" lean-forward="false" selection-start-line="69" selection-start-column="36" selection-end-line="69" selection-end-column="36" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
-                <marker date="1585100991126" expanded="true" signature="447:461" ph="select * fro... missing_value" />
-                <marker date="1585100991126" expanded="true" signature="447:468" ph="select * fro... table" />
-                <marker date="1585100991126" expanded="true" signature="700:768" ph="INSERT INTO missing_value... " />
-                <marker date="1585100991126" expanded="true" signature="1482:1501" ph="UPDATE {} SE... " />
-                <marker date="1585100991126" expanded="true" signature="1482:1527" ph="UPDATE missing_value... " />
-                <marker date="1585100991126" expanded="true" signature="1482:1534" ph="UPDATE {} SE... " />
-                <marker date="1585100991126" expanded="true" signature="2145:2184" ph="SELECT href missing_value" />
-                <marker date="1585100991126" expanded="true" signature="2145:2192" ph="SELECT href,... missing_value" />
-                <marker date="1585100991126" expanded="true" signature="2152:2184" ph="select href missing_value" />
+                <marker date="1585215565099" expanded="true" signature="447:461" ph="select * fro... missing_value" />
+                <marker date="1585215565099" expanded="true" signature="447:468" ph="select * fro... table" />
+                <marker date="1585215565099" expanded="true" signature="700:768" ph="INSERT INTO missing_value... " />
+                <marker date="1585215565099" expanded="true" signature="1482:1501" ph="UPDATE {} SE... " />
+                <marker date="1585215565099" expanded="true" signature="1482:1527" ph="UPDATE missing_value... " />
+                <marker date="1585215565099" expanded="true" signature="1482:1534" ph="UPDATE {} SE... " />
+                <marker date="1585215565099" expanded="true" signature="2145:2179" ph="SELECT href missing_value" />
+                <marker date="1585215565099" expanded="true" signature="2145:2182" ph="SELECT href missing_value" />
+                <marker date="1585215565099" expanded="true" signature="2145:2187" ph="SELECT href missing_value" />
+                <marker date="1585215565099" expanded="true" signature="2152:2179" ph="select href missing_value" />
               </folding>
             </state>
           </provider>
@@ -116,8 +99,8 @@
       <file leaf-file-name="meituan_detail.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meituan_aapium/meituan_detail.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+            <state relative-caret-position="864">
+              <caret line="28" column="34" lean-forward="false" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -157,7 +140,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Proxy_pool" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -207,12 +190,12 @@
         <option value="$PROJECT_DIR$/Proxy_pool/Proxy_pool/db.py" />
         <option value="$PROJECT_DIR$/script.py" />
         <option value="$PROJECT_DIR$/meituan.py" />
-        <option value="$PROJECT_DIR$/meituan_aapium/appium_app.py" />
         <option value="$PROJECT_DIR$/meituan_aapium/index.py" />
-        <option value="$PROJECT_DIR$/meituan_aapium/script.py" />
         <option value="$PROJECT_DIR$/meituan_aapium/appium_index.py" />
+        <option value="$PROJECT_DIR$/meituan_aapium/script.py" />
         <option value="$PROJECT_DIR$/meituan_aapium/db.py" />
         <option value="$PROJECT_DIR$/meituan_aapium/meituan_detail.py" />
+        <option value="$PROJECT_DIR$/meituan_aapium/appium_app.py" />
       </list>
     </option>
   </component>
@@ -222,11 +205,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="189" />
-    <option name="y" value="101" />
-    <option name="width" value="1659" />
-    <option name="height" value="801" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="250" />
+    <option name="y" value="166" />
+    <option name="width" value="1679" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -244,6 +227,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -252,16 +236,10 @@
               <item name="Pycharmproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="Pycharmproject" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Pycharmproject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Pycharmproject" type="462c0819:PsiDirectoryNode" />
-              <item name="meituan_aapium" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -271,14 +249,16 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Pycharmproject\ncov_crawler\ncov_crawler\ncov_crawler\spiders" />
+      <recent name="D:\Pycharmproject\Proxy_pool" />
+      <recent name="D:\Pycharmproject" />
+      <recent name="D:\Pycharmproject\meituan_app" />
+      <recent name="D:\Pycharmproject\meituan_aapium" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Pycharmproject\meituan_aapium" />
       <recent name="D:\Pycharmproject" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Pycharmproject\meituan_aapium" />
-      <recent name="D:\Pycharmproject\meituan" />
-      <recent name="D:\Pycharmproject\ygqygq2-fastdfs-nginx-master" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -293,7 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.meituan_detail">
+  <component name="RunManager" selected="Python.appium_app">
     <configuration name="appium_app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -370,39 +350,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="script" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Proxy_pool" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/meituan_aapium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Pycharmproject" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Proxy_pool/run.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/meituan_aapium/script.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.run" />
-      <item index="1" class="java.lang.String" itemvalue="Python.db" />
-      <item index="2" class="java.lang.String" itemvalue="Python.appium_app" />
-      <item index="3" class="java.lang.String" itemvalue="Python.meituan_detail" />
-      <item index="4" class="java.lang.String" itemvalue="Python.appium_index" />
+      <item index="0" class="java.lang.String" itemvalue="Python.db" />
+      <item index="1" class="java.lang.String" itemvalue="Python.appium_app" />
+      <item index="2" class="java.lang.String" itemvalue="Python.meituan_detail" />
+      <item index="3" class="java.lang.String" itemvalue="Python.appium_index" />
+      <item index="4" class="java.lang.String" itemvalue="Python.script" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.meituan_detail" />
-        <item index="1" class="java.lang.String" itemvalue="Python.appium_index" />
-        <item index="2" class="java.lang.String" itemvalue="Python.db" />
-        <item index="3" class="java.lang.String" itemvalue="Python.appium_app" />
-        <item index="4" class="java.lang.String" itemvalue="Python.run" />
+        <item index="0" class="java.lang.String" itemvalue="Python.appium_app" />
+        <item index="1" class="java.lang.String" itemvalue="Python.meituan_detail" />
+        <item index="2" class="java.lang.String" itemvalue="Python.script" />
+        <item index="3" class="java.lang.String" itemvalue="Python.db" />
+        <item index="4" class="java.lang.String" itemvalue="Python.appium_index" />
       </list>
     </recent_temporary>
   </component>
@@ -423,16 +403,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="189" y="101" width="1659" height="801" extended-state="0" />
+    <frame x="250" y="166" width="1679" height="873" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4357405" sideWeight="0.5066246" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30932203" sideWeight="0.5090343" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30351076" sideWeight="0.4933754" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48163843" sideWeight="0.49096572" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47624847" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13880126" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17133956" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -493,47 +473,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/盗墓笔记续十年之后/二百三十一章.txt" />
-    <entry file="file://$PROJECT_DIR$/盗墓笔记续十年之后/一百一十一章.txt" />
-    <entry file="file://$PROJECT_DIR$/thread.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="96" column="96" lean-forward="false" selection-start-line="96" selection-start-column="96" selection-end-line="96" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/woff.woff" />
-    <entry file="file://$PROJECT_DIR$/58zc2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/handler_mongo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reques.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="0" column="1311" lean-forward="true" selection-start-line="0" selection-start-column="1311" selection-end-line="0" selection-end-column="1311" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kuaishou222.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/meituanScript.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -811,61 +750,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/meituan_aapium/appium_index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13464">
+          <caret line="382" column="42" lean-forward="false" selection-start-line="382" selection-start-column="42" selection-end-line="382" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ncov_crawler/ncov_crawler/scrapy.cfg" />
+    <entry file="file://$PROJECT_DIR$/ncov_crawler/ncov_crawler/ncov_crawler/middlewares.py" />
+    <entry file="file://$PROJECT_DIR$/ncov_crawler/ncov_crawler/ncov_crawler/items.py" />
+    <entry file="file://$PROJECT_DIR$/ncov_crawler/ncov_crawler/ncov_crawler/settings.py" />
+    <entry file="file://$PROJECT_DIR$/ncov_crawler/ncov_crawler/ncov_crawler/pipelines.py" />
+    <entry file="file://$PROJECT_DIR$/ncov_crawler/ncov_crawler/ncov_crawler/db.py" />
+    <entry file="file://$PROJECT_DIR$/ncov2019.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/appium/webdriver/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="159" column="61" lean-forward="true" selection-start-line="159" selection-start-column="61" selection-end-line="159" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/meituan_aapium/meituan_detail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        <state relative-caret-position="864">
+          <caret line="28" column="34" lean-forward="false" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/meituan_aapium/db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2448">
+          <caret line="69" column="36" lean-forward="false" selection-start-line="69" selection-start-column="36" selection-end-line="69" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1585215565099" expanded="true" signature="447:461" ph="select * fro... missing_value" />
+            <marker date="1585215565099" expanded="true" signature="447:468" ph="select * fro... table" />
+            <marker date="1585215565099" expanded="true" signature="700:768" ph="INSERT INTO missing_value... " />
+            <marker date="1585215565099" expanded="true" signature="1482:1501" ph="UPDATE {} SE... " />
+            <marker date="1585215565099" expanded="true" signature="1482:1527" ph="UPDATE missing_value... " />
+            <marker date="1585215565099" expanded="true" signature="1482:1534" ph="UPDATE {} SE... " />
+            <marker date="1585215565099" expanded="true" signature="2145:2179" ph="SELECT href missing_value" />
+            <marker date="1585215565099" expanded="true" signature="2145:2182" ph="SELECT href missing_value" />
+            <marker date="1585215565099" expanded="true" signature="2145:2187" ph="SELECT href missing_value" />
+            <marker date="1585215565099" expanded="true" signature="2152:2179" ph="select href missing_value" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/meituan_aapium/appium_app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8712">
-          <caret line="250" column="16" lean-forward="false" selection-start-line="250" selection-start-column="16" selection-end-line="250" selection-end-column="16" />
+        <state relative-caret-position="1527">
+          <caret line="65" column="48" lean-forward="true" selection-start-line="65" selection-start-column="48" selection-end-line="65" selection-end-column="48" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
+            <element signature="e#2005#11400#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/meituan_aapium/script.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state relative-caret-position="105">
+          <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meituan_aapium/appium_index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13464">
-          <caret line="382" column="42" lean-forward="false" selection-start-line="382" selection-start-column="42" selection-end-line="382" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meituan_aapium/db.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <marker date="1585100991126" expanded="true" signature="447:461" ph="select * fro... missing_value" />
-            <marker date="1585100991126" expanded="true" signature="447:468" ph="select * fro... table" />
-            <marker date="1585100991126" expanded="true" signature="700:768" ph="INSERT INTO missing_value... " />
-            <marker date="1585100991126" expanded="true" signature="1482:1501" ph="UPDATE {} SE... " />
-            <marker date="1585100991126" expanded="true" signature="1482:1527" ph="UPDATE missing_value... " />
-            <marker date="1585100991126" expanded="true" signature="1482:1534" ph="UPDATE {} SE... " />
-            <marker date="1585100991126" expanded="true" signature="2145:2184" ph="SELECT href missing_value" />
-            <marker date="1585100991126" expanded="true" signature="2145:2192" ph="SELECT href,... missing_value" />
-            <marker date="1585100991126" expanded="true" signature="2152:2184" ph="select href missing_value" />
           </folding>
         </state>
       </provider>
